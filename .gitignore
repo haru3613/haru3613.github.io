@@ -28,3 +28,4 @@ yarn-error.log*
 
 .release-it.json
 now.json
+deploy.sh
