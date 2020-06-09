@@ -9,7 +9,7 @@
         md="6"
       >
         <v-img
-          :src="require('@/assets/welcome.png')"
+          :src="require('@/assets/welcome.jpg')"
           height="100vh"
         />
       </v-col>
@@ -32,13 +32,16 @@
             cols="10"
             md="6"
           >
-            <base-heading>About Me</base-heading>
+            <base-heading>Welcome</base-heading>
             <base-text>
               我叫詹竣珷，<br>曾在美商物聯網公司擔任 QA Engineer Intern，
               對於測試有一年經驗，具備測試思維，能完整規劃測試案例、流程與架構，
               撰寫小工具改善測試流程。
             </base-text>
-            <base-btn class="mt-4">
+            <base-btn
+              class="mt-4"
+              href="#about"
+            >
               Learn More!
             </base-btn>
           </v-col>

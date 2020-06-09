@@ -31,7 +31,7 @@
         {
           name: 'Home',
           icon: 'mdi-home',
-          url: 'https://github.com/haru3613',
+          url: '/',
         },
         {
           name: 'Github',
@@ -41,12 +41,7 @@
         {
           name: 'Email',
           icon: 'mdi-email',
-          url: 'https://github.com/haru3613',
-        },
-        {
-          name: 'Phone',
-          icon: 'mdi-phone',
-          url: 'https://github.com/haru3613',
+          url: 'mailto:qaw8975889@gmail.com',
         },
       ],
     }),

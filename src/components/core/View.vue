@@ -18,7 +18,6 @@
 
     components: {
       AboutMe: () => import('@/components/AboutMe'),
-      GetInTouch: () => import('@/components/GetInTouch'),
       RecentProjects: () => import('@/components/RecentProjects'),
       Services: () => import('@/components/Experience'),
       Welcome: () => import('@/components/Welcome'),

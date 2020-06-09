@@ -19,9 +19,9 @@
         </base-heading>
 
         <base-text class="mb-5">
-          Lorem ipsum dolor sit amet, consectetur adipi<br>
-          scin elit. Etiam vulputate augue vel felis gravida<br>
-          porta. Lorem ipsum dolor sit amet.
+          自我要求高<br>
+          喜歡挑戰新知識<br>
+          注重效率，不需動腦做的交給自動化處理
         </base-text>
 
         <base-subheading class="info--text">
@@ -29,8 +29,10 @@
         </base-subheading>
 
         <base-text class="mb-5">
-          Lorem ipsum dolor sit amet, consecte tur adipi scin e<br>
-          lit. Etiam vulputate augu e vel felis gravida porta.
+          UWP: VB, C#, Java<br>
+          Mobile: Android Studio, Ionic<br>
+          Frontend: Vue.js, Angular<br>
+          Backend: Node.js Express, Django, Flask, PHP, RESTful API
         </base-text>
 
         <v-alert

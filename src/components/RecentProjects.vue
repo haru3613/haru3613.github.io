@@ -5,7 +5,7 @@
   >
     <v-row no-gutters>
       <v-col
-        class="primary text-center pa-5 white--text"
+        class="primary text-center pa-5"
         cols="12"
         md="6"
       >
